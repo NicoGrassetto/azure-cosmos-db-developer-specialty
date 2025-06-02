@@ -9,7 +9,6 @@ There are various SDKs (Software Development Kits) available to connect to the A
 - JavaScript (Node.js)
 - GO
 
-For this section, you explore and get hands-on with the Python, and JavaScript SDKs for the Azure Cosmos DB for NoSQL.
 ### Understand the SDK
 Microsoft offers SDKs (Software Development Kits) for Azure Cosmos DB for NoSQL in various programming languages. In this module, we focus on the .NET SDK (C#), Python SDK, and JavaScript SDK (Node.js) for Azure Cosmos DB for NoSQL. Select the tab that corresponds to the SDK you want to explore.
 
